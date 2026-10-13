@@ -1,0 +1,77 @@
+[
+  {
+    "id": "i001",
+    "prompt": "A stitch in time....",
+    "answer": "saves nine"
+  },
+  {
+    "id": "i002",
+    "prompt": "Birds of a feather....",
+    "answer": "flock together"
+  },
+  {
+    "id": "i003",
+    "prompt": "Better late than....",
+    "answer": "never"
+  },
+  {
+    "id": "i004",
+    "prompt": "Actions speak louder than....",
+    "answer": "words"
+  },
+  {
+    "id": "i005",
+    "prompt": "The early bird....",
+    "answer": "catches the worm"
+  },
+  {
+    "id": "i006",
+    "prompt": "Don't count your chickens....",
+    "answer": "before they hatch"
+  },
+  {
+    "id": "i007",
+    "prompt": "When in Rome....",
+    "answer": "do as the Romans do"
+  },
+  {
+    "id": "i008",
+    "prompt": "Every cloud has....",
+    "answer": "a silver lining"
+  },
+  {
+    "id": "i009",
+    "prompt": "A penny saved is....",
+    "answer": "a penny earned"
+  },
+  {
+    "id": "i010",
+    "prompt": "You can't have your cake....",
+    "answer": "and eat it too"
+  },
+  {
+    "id": "i011",
+    "prompt": "The grass is always greener....",
+    "answer": "on the other side"
+  },
+  {
+    "id": "i012",
+    "prompt": "Curiosity killed the....",
+    "answer": "cat"
+  },
+  {
+    "id": "i013",
+    "prompt": "Don't put all your eggs....",
+    "answer": "in one basket"
+  },
+  {
+    "id": "i014",
+    "prompt": "Practice makes....",
+    "answer": "perfect"
+  },
+  {
+    "id": "i015",
+    "prompt": "Look before you....",
+    "answer": "leap"
+  }
+]
